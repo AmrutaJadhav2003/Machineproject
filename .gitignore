@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+.ipynb_checkpoints/
+*.dll
+*.exe
